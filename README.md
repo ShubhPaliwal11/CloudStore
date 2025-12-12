@@ -1,7 +1,7 @@
 # Cloud Store
 
 <div align="center">
-  <img src="public/assets/images/logo-full.svg" alt="Cloud Store Logo" width="200">
+  <img src="public/assets/images/cloud.png" alt="Cloud Store Logo" width="200">
   
   <h3>Modern Cloud Storage & File Sharing Platform</h3>
   
